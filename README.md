@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /> </p>
 
-- 🔭 I’m currently studying Front-end and Back-end technologies **#HiringCoders**
+- 🔭 I’m currently studying Front-end and Back-end technologies at **#HiringCoders** and  **#Digital Innovation** 
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, React**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, React, GraphQL, NodeJS**
 
 - ⚡ Fun fact **I've been an architect for 14 years, but am now transitioning to the tech world, and I'm loving it!**
 
