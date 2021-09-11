@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying Front-end and Back-end technologies at **#HiringCoders** and  **#Digital Innovation** 
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, React, GraphQL, NodeJS**
+- 🌱 I’m currently learning **HTML, CSS, Javascript and Java**
 
 - ⚡ Fun fact **I've been an architect for 14 years, but am now transitioning to the tech world, and I'm loving it!**
 
