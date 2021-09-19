@@ -1,11 +1,13 @@
+<p align="center"><img src="https://i.postimg.cc/SQ9RbB8B/capa-linkedin.jpg"></p>
+
 <h1 align="center">Hi 👋, I'm Giselle</h1>
 <h3 align="center">A passionate Developer in training from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /> </p>
 
-- 🔭 I’m currently studying Front-end and Back-end technologies at **#HiringCoders** and  **#Digital Innovation** 
+- 🔭 I’m currently participating in a program developed by the company **CWI Software** and studying at **Digital Innovation One** 
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript and Java**
+- 🌱 I’m learning **HTML, CSS, Javascript and Java**
 
 - ⚡ Fun fact **I've been an architect for 14 years, but am now transitioning to the tech world, and I'm loving it!**
 
