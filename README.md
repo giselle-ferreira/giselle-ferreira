@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.postimg.cc/SQ9RbB8B/capa-linkedin.jpg"></p>
 
 <h1 align="center">Hi 👋, I'm Giselle</h1>
-<h3 align="center">A passionate Developer in training from Brazil</h3>
+<h3 align="center">I'm a Developer in training from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m learning **HTML, CSS, Javascript and Java**
 
-- ⚡ Fun fact **I've been an architect for 14 years, but am now transitioning to the tech world, and I'm loving it!**
+- ⚡ Fun fact **I've been an architect for 15 years, but am now transitioning to the tech world, and I'm loving it!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
