@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /> </p>
 
-- 🔭 I’m currently participating in a program developed by the company **CWI Software** and studying at **Digital Innovation One** 
+- 🔭 I’m currently studying to be a Full Stack Developer
 
-- 🌱 I’m learning **HTML, CSS, Javascript and Java**
 
 - ⚡ Fun fact **I've been an architect for 15 years, but am now transitioning to the tech world, and I'm loving it!**
 
