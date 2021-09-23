@@ -7,8 +7,7 @@
 
 - 🔭 I’m currently studying to be a Full Stack Developer
 
-
-- ⚡ Fun fact **I've been an architect for 15 years, but am now transitioning to the tech world, and I'm loving it!**
+- ⚡ Fun fact: **I've been an architect for 15 years, but am now transitioning to the tech world, and I'm loving it!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
