@@ -5,7 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /> </p>
 
-- 🔭 I’m currently studying to be a Full Stack Developer
+- 🔭 I’m currently studying to be a Full Stack Developer.
+
+- 🔭 I participated in the #HiringCoders Program. A Gama Academy and VTEX partnership.
+
+- 🔭 I'm currently a System Analysis and Development undergrad student.
+
+- 🔭 I'm studying HTML, CSS and Javascript at [Digital Innovation One](https://digitalinnovation.one/)
 
 - ⚡ Fun fact: **I've been an architect for 15 years, but am now transitioning to the tech world, and I'm loving it!**
 
