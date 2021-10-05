@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /> </p>
 
-- 🔭 I’m currently studying to be a Full Stack Developer.
+- 🔭 Developer in training!
 
 - 🔭 I participated in the #HiringCoders Program. A Gama Academy and VTEX partnership.
 
