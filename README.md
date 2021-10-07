@@ -45,3 +45,6 @@
 
 >### Most Used Languages ⚒️
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giselle-ferreira&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24" alt="giselle-ferreira" /></p>
+
+
+
