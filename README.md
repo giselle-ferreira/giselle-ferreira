@@ -1,7 +1,6 @@
-<p align="center"><img src="https://i.postimg.cc/SQ9RbB8B/capa-linkedin.jpg"></p>
+<p align="center"><img src="https://i.postimg.cc/5bhhYMrD/capagithub.png"></p>
 
 <h1 align="center">Hi 👋, I'm Giselle</h1>
-<h3 align="center">I'm a Developer in training from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /> </p>
 
@@ -32,10 +31,17 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  
 <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/> 
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>  
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giselle-ferreira&show_icons=true&locale=en&layout=compact" alt="giselle-ferreira" /></p>
+>### Stats 📝
+[![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=giselle-ferreira&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/giselle-ferreira/github-readme-stats)
+
+<br>
+
+>### Most Used Languages ⚒️
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giselle-ferreira&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24" alt="giselle-ferreira" /></p>
