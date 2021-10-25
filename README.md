@@ -8,7 +8,7 @@
 
 - 🔭 I participated in the #HiringCoders Program. A Gama Academy and VTEX partnership.
 
-- 🔭 I'm currently a System Analysis and Development undergrad student.
+- 🔭 I'm currently a System Analysis and Development undergrad student (2nd semester).
 
 - 🔭 I'm studying HTML, CSS, Javascript and ReactJs at [Digital Innovation One](https://digitalinnovation.one/)
 
