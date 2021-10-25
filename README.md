@@ -10,7 +10,7 @@
 
 - 🔭 I'm currently a System Analysis and Development undergrad student.
 
-- 🔭 I'm studying HTML, CSS, Javascript and React at [Digital Innovation One](https://digitalinnovation.one/)
+- 🔭 I'm studying HTML, CSS, Javascript and ReactJs at [Digital Innovation One](https://digitalinnovation.one/)
 
 - ⚡ Fun fact: **I've been an architect for 15 years, but am now transitioning to the tech world, and I'm loving it!**
 
