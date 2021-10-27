@@ -28,7 +28,7 @@
 >## Other Interests ✨
 - I'm passionate about graphic design, photography and learning new languages (as in foreign languages).
 
-- I speak both English and Spanish (besides Portuguese), just because I like it.
+- As a personal choice, I speak both English and Spanish (besides Portuguese). 
 
 - I've taken graphic design and photography courses, also just because I like it. =)
 
