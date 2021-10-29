@@ -3,7 +3,11 @@
 <p ><h1 align="left">Hi 👋, I'm Giselle</h1><img align="right" width="280" src="https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /></p> 
+<p align="left">
+<a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img align="center" src="https://img.shields.io/badge/-Portugu%C3%AAs-brightgreen" /></a>
+</p>
 
+<br>
 - I'm a front end developer in training!
  
 - I love to learn new things, and am enjoying A LOT all that I'm learning right now! 🤯 
