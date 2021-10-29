@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /></p> 
 <p align="left">
-<a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img align="center" src="https://img.shields.io/badge/-Portugu%C3%AAs-brightgreen" /></a>
+<a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img align="center" src="https://img.shields.io/badge/-Portugu%C3%AAs-blue" /></a>
 </p>
 
 <br>
