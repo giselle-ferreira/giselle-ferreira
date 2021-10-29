@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /></p> 
 
-- Sou uma desenvolvedor Frontend em formação!
+- Sou uma desenvolvedora Frontend em formação!
  
 - Amo aprender coisas novas, e estou adorando tudo que tenho aprendido em tecnologia! 🤯 
 
