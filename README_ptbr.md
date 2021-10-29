@@ -1,23 +1,23 @@
 <p align="center"><img src="https://i.postimg.cc/5bhhYMrD/capagithub.png"></p>
 
-<p ><h1 align="left">Hi 👋, I'm Giselle</h1><img align="right" width="280" src="https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif"/></p>
+<p ><h1 align="left">Oi 👋, Sou a Giselle</h1><img align="right" width="280" src="https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /></p> 
 
-- I'm a front end developer in training!
+- Sou uma desenvolvedor Frontend em formação!
  
-- I love to learn new things, and am enjoying A LOT all that I'm learning right now! 🤯 
+- Amo aprender coisas novas, e estou adorando tudo que tenho aprendido em tecnologia! 🤯 
 
-- I'm currently a System Analysis and Development undergrad student (2nd semester).
+- Atualmente sou aluna do segundo semestre de Análise e De Denvolvimento de Sistemas.
 
-- I'm studying HTML, CSS, Javascript and ReactJs at [Digital Innovation One](https://digitalinnovation.one/)
+- Estou estudando HTML, CSS, Javascript e ReactJs na [Digital Innovation One](https://digitalinnovation.one/)
 
-- ⚡ Fun fact: **I've been an architect for 15 years, but have migrated to the tech world since the beginning of 2021, and I'm loving it!**
+- ⚡ Curiosidade: **Sou arquiteta há 15 anos, mas migrei para o mundo de tecnologia no início de 2021, e tenho me apaixonado cada vez mais!**
 
 
 <br>
 
->## Connect with me 🔗
+>## Conecte-se comigo 🔗
 <p align="left">
 <a href="https://linkedin.com/in/giselleferreiras" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="giselleferreiras" /></a>
 </p>
@@ -25,18 +25,18 @@
 
 <br>
 
->## Other Interests ✨
-- I'm passionate about graphic design, photography and learning new languages (as in foreign languages).
+>## Interesses diversos ✨
+- Gosto muito de Design GRáfico. fotografia, e em aprender novos idiomas.
 
-- As a personal choice, I speak both English and Spanish (besides Portuguese). 
+- Falo Inglês e Espanhol, além do Português, e foi uma escolha pessoal. 
 
-- I've taken graphic design and photography courses, also just because I like it. =)
+- Também já fiz alguns cursos livres de design gráfico e fotografia, porque gosto muito. =)
 
-- I love animals and have a few cats and dogs myself. Most of them are rescued. ❤️ 
+- Amo animais, e tenho alguns gatos e cachorros. A maioria deles foi resgatada. ❤️ 
 
 <br>
 
->## Languages and Tools 🧰
+>## Linguagens e Ferramentas 🧰
 
 <p align="left">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -56,7 +56,7 @@
 
 <br>
 
->## Most Used Languages ⚒️
+>## Linguagens Mais utilizadas ⚒️
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giselle-ferreira&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24" alt="giselle-ferreira" /></p>
 
 <br>
