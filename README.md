@@ -8,6 +8,7 @@
 </p>
 
 <br>
+
 - I'm a front end developer in training!
  
 - I love to learn new things, and am enjoying A LOT all that I'm learning right now! 🤯 
