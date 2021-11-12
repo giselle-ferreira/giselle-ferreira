@@ -7,7 +7,7 @@
 <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img width="70" src="https://img.shields.io/badge/-Portugu%C3%AAs-blue" /></a>
 </p>
 
-- I'm a Frontend Developer in training!
+- I'm a Fullstack Developer in training!
  
 - I love to learn new things, and am enjoying A LOT all that I'm learning right now! 🤯 
 
