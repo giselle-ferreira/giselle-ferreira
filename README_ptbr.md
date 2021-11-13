@@ -1,13 +1,13 @@
 
 <p ><h1 align="center">Oi 👋, Sou a Giselle!</h1>
-<p align="center" ><img " width="200" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif"/>
-<img width="200" src="https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif"/></p>
+<p align="center" ><img " width="160" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif"/>
+<img width="160" src="https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif"/></p>
 
 <p align="center"> <img width="120" src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /> 
 <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img width="70" src="https://img.shields.io/badge/-Portugu%C3%AAs-blue" /></a>
 </p>
 
-- Sou uma desenvolvedora Frontend em formação!
+- Sou uma Desenvolvedora Web FullStack em formação!
  
 - Amo aprender coisas novas, e estou adorando tudo que tenho aprendido em tecnologia! 🤯 
 
