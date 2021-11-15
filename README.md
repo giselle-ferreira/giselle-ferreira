@@ -7,13 +7,11 @@
 <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img width="70" src="https://img.shields.io/badge/-Portugu%C3%AAs-blue" /></a>
 </p>
 
-- I'm a Web Fullstack Developer in training!
+- I'm a Web Fullstack Developer in training at [SoulCode Academy](https://soulcodeacademy.org/)
  
 - I love to learn new things, and am enjoying A LOT all that I'm learning right now! 🤯 
 
 - I'm currently a System Analysis and Development undergrad student (2nd semester).
-
-- I'm studying HTML, CSS, Javascript and ReactJs at [Digital Innovation One](https://digitalinnovation.one/)
 
 - ⚡ Fun fact: **I've been an architect for 15 years, but have migrated to the tech world since the beginning of 2021, and I'm loving it!**
 
