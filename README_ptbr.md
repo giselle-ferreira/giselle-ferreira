@@ -7,13 +7,11 @@
 <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img width="70" src="https://img.shields.io/badge/-Portugu%C3%AAs-blue" /></a>
 </p>
 
-- Sou uma Desenvolvedora Web FullStack em formação!
+- Sou uma Desenvolvedora Web FullStack em formação pela [SoulCode Academy](https://soulcodeacademy.org/)
  
 - Amo aprender coisas novas, e estou adorando tudo que tenho aprendido em tecnologia! 🤯 
 
 - Atualmente sou aluna do segundo semestre de Análise e De Denvolvimento de Sistemas.
-
-- Estou estudando HTML, CSS, Javascript e ReactJs na [Digital Innovation One](https://digitalinnovation.one/)
 
 - ⚡ Curiosidade: **Sou arquiteta há 15 anos, mas migrei para o mundo de tecnologia no início de 2021, e tenho me apaixonado cada vez mais!**
 
