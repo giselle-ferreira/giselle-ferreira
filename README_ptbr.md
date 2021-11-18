@@ -4,7 +4,7 @@
 <img width="160" src="https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif"/></p>
 
 <p align="center"> <img width="120" src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /> 
-<a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img width="70" src="https://img.shields.io/badge/-Portugu%C3%AAs-blue" /></a>
+<a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img width="70" src="https://img.shields.io/badge/-Portugu%C3%AAs-blue" /> <img width="55" src="https://img.shields.io/badge/-Espa%C3%B1ol-blue" /></a>
 </p>
 
 - Sou uma Desenvolvedora Web FullStack em formação pela [SoulCode Academy](https://soulcodeacademy.org/)
