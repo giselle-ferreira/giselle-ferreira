@@ -9,7 +9,7 @@
 
 - I'm a Web Fullstack Developer in training at [SoulCode Academy](https://soulcodeacademy.org/)
  
-- I love to learn new things, and am enjoying A LOT all that I'm learning right now! 🤯 
+- I love to learn new things, and I'm enjoying A LOT everything that I'm learning now! 🤯 
 
 - I'm currently a System Analysis and Development undergrad student (2nd semester).
 
