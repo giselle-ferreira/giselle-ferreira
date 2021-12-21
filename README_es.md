@@ -33,7 +33,7 @@
 
 - He tomado clases de diseño gráfico y fotografía, y lo he hecho por opción, porque me gustan mucho los temas. =)
 
-- Amo los animales. Tengo I love animals and have a few cats and dogs myself. Most of them are rescued. ❤️ 
+- Amo los animales. Tengo perritos y gatitos, y en su mayoría son rescatados. ❤️ 
 
 <br>
 
