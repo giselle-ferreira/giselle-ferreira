@@ -7,7 +7,7 @@
 <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img height="20" src="https://img.shields.io/badge/-Portugu%C3%AAs-blue" /> <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_es.md" target="blank"><img height="20" src="https://img.shields.io/badge/-Espa%C3%B1ol-blue" /></a> <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README.md" target="blank"><img height="20" src="https://img.shields.io/badge/-English-green" /></a>
 </p>
 
-- I'm a Web Fullstack Developer in training at [SoulCode Academy](https://soulcodeacademy.org/)
+- I'm a Fullstack Web Developer in training at [SoulCode Academy](https://soulcodeacademy.org/)
  
 - I love to learn new things, and I'm enjoying A LOT everything that I'm learning now! 🤯 
 
