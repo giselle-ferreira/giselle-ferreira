@@ -11,7 +11,7 @@
  
 - I love to learn new things, and I'm enjoying A LOT everything that I'm learning now! 🤯 
 
-- I'm currently a System Analysis and Development undergrad student (2nd semester).
+- I'm currently a System Analysis and Development undergrad student (3rd semester).
 
 - ⚡ Fun fact: **I've been an architect for 15 years, but have migrated to the tech world since the beginning of 2021, and I'm loving it!**
 
