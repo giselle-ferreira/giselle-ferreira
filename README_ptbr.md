@@ -11,7 +11,7 @@
  
 - Amo aprender coisas novas, e estou adorando tudo que tenho aprendido em tecnologia! 🤯 
 
-- Atualmente sou aluna do segundo semestre de Análise e De Denvolvimento de Sistemas.
+- Atualmente sou aluna do terceiro semestre de Análise e De Denvolvimento de Sistemas.
 
 - ⚡ Curiosidade: **Sou arquiteta há 15 anos, mas migrei para o mundo de tecnologia no início de 2021, e tenho me apaixonado cada vez mais!**
 
@@ -48,6 +48,7 @@
 <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>  
 
 <br>
