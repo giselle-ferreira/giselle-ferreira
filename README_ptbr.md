@@ -7,7 +7,9 @@
 <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img height="20" src="https://img.shields.io/badge/-Portugu%C3%AAs-green" /> <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_es.md" target="blank"><img height="20" src="https://img.shields.io/badge/-Espa%C3%B1ol-blue" /></a> <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README.md" target="blank"><img height="20" src="https://img.shields.io/badge/-English-blue" /></a>
 </p>
 
-- Sou uma Desenvolvedora Web FullStack em formação pela [SoulCode Academy](https://soulcodeacademy.org/)
+- Sou uma Desenvolvedora Web 🖥️
+
+- Acabo de finalizar o curso de Desenvolvedor Web FullStack pela [SoulCode Academy](https://soulcodeacademy.org/)
  
 - Amo aprender coisas novas, e estou adorando tudo que tenho aprendido em tecnologia! 🤯 
 
