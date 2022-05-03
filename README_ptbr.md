@@ -8,14 +8,10 @@
 </p>
 
 - Sou uma Desenvolvedora Web 🖥️
-
-- Acabo de finalizar o curso de Desenvolvedor Web FullStack pela [SoulCode Academy](https://soulcodeacademy.org/)
- 
-- Amo aprender coisas novas, e estou adorando tudo que tenho aprendido em tecnologia! 🤯 
-
+- Acabo de finalizar o curso de Desenvolvedor Web FullStack pela [SoulCode Academy](https://soulcodeacademy.org/) 
+- Amo aprender coisas novas, novas tecnologias, e também skills referente a desenvolvimento pessoal!
 - Atualmente sou aluna do terceiro semestre de Análise e De Denvolvimento de Sistemas.
-
-- ⚡ Curiosidade: **Sou arquiteta há 15 anos, mas migrei para o mundo de tecnologia no início de 2021, e tenho me apaixonado cada vez mais!**
+- ⚡ Curiosidade: **Sou arquiteta desde 2007, e comecei a migrar para tecnologia em Janeiro/2021, e tenho me apaixonado cada vez mais!**
 
 
 <br>
@@ -30,12 +26,9 @@
 <br>
 
 >## Interesses diversos ✨
-- Gosto muito de Design GRáfico. fotografia, e em aprender novos idiomas.
-
+- Gosto muito de Design Gráfico. fotografia, e em aprender novos idiomas.
 - Falo Inglês e Espanhol, além do Português, e foi uma escolha pessoal. 
-
 - Também já fiz alguns cursos livres de design gráfico e fotografia, porque gosto muito. =)
-
 - Amo animais, e tenho alguns gatos e cachorros. A maioria deles foi resgatada. ❤️ 
 
 <br>
@@ -43,26 +36,21 @@
 >## Linguagens e Ferramentas 🧰
 
 <p align="left">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<br>
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="50"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50"> 
 <br>
 <br> 
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-</p>   
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="50"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="50">
+</p> 
 
 <br>
 
