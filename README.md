@@ -11,7 +11,7 @@
 - I just finished the Web Full Stack Developer bootcamp at [SoulCode Academy](https://soulcodeacademy.org/) 
 - I love to learn new things, new technologies as well as personal development skills! 
 - I'm currently a System Analysis and Development undergrad student (3rd semester).
-- ⚡ Fun fact: **I've been an architect since 2007, and have migrated to technology since January/2021, and I couldn't love it more!**
+- ⚡ Fun fact: **I've been an architect since 2007, and have started to migrate to technology since January/2021, and I couldn't love it more!**
 
 
 
