@@ -7,15 +7,11 @@
 <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img height="20" src="https://img.shields.io/badge/-Portugu%C3%AAs-blue" /> <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_es.md" target="blank"><img height="20" src="https://img.shields.io/badge/-Espa%C3%B1ol-green" /></a> <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README.md" target="blank"><img height="20" src="https://img.shields.io/badge/-English-blue" /></a>
 </p>
 
-- Soy una Desarrolladora Web 🖥️
- 
-- Acabo de finalizar el curso de Desarrollador Web Fullstack por [SoulCode Academy](https://soulcodeacademy.org/)
- 
-- Amo aprender cosas nuevas, y estoy encantada con todo lo que estoy aprendiendo ahora en la tecnología! 🤯 
-
+- Soy una Desarrolladora Web 🖥️ 
+- Acabo de finalizar el curso de Desarrollador Web Fullstack por [SoulCode Academy](https://soulcodeacademy.org/) 
+- Amo aprender cosas nuevas, nuevas tecnologías y todo que se refiere a desarrollo personal!
 - En el momento estoy estudiando Tecnología en Análisis y Desarrollo de Sistemas.
-
-- ⚡ Fun fact: **Soy arquitecta desde hace 15 años, pero he empezado la migración para el mundo de la tecnología desde el comienzo de 2021, y estoy amando cada segundo!**
+- ⚡ Fun fact: **Soy arquitecta desde en año 2007, y empezado la migración para la tecnología desde Enero/2021, y estoy amando cada segundo!**
 
 
 <br>
@@ -31,11 +27,8 @@
 
 >## Otros gustos e intereses ✨
 - Amo el diseño gráfico, la fotografía y aprender nuevos idiomas.
-
 - Hablo inglés y español por opción personal. 
-
 - He tomado clases de diseño gráfico y fotografía, y lo he hecho por opción, porque me gustan mucho los temas. =)
-
 - Amo los animales. Tengo perritos y gatitos, y en su mayoría son rescatados. ❤️ 
 
 <br>
@@ -43,26 +36,21 @@
 >## Lenguajes y Herramientas 🧰
 
 <p align="left">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<br>
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="50"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50"> 
 <br>
 <br> 
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-</p>   
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="50"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="50">
+</p>  
 
 <br>
 
