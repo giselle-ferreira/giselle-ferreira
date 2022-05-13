@@ -1,4 +1,3 @@
-
 <p ><h1 align="center">Hi 👋, I'm Giselle!</h1>
 <p align="center" ><img " width="160" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif"/>
 <img width="160" src="https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif"/></p>
@@ -27,7 +26,7 @@
 <br>
 
 >## Other Interests ✨
-- I love Graphic Design(Check My <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Insta</a>), photography (Check My <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Insta</a>) and learning new languages (as in foreign languages).
+- I love Graphic Design (Check My <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Insta</a> ), photography ( Check My <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Insta</a> ) and learning new languages (as in foreign languages).
 - I speak English and Spanish (besides Portuguese). 
 - I love pets. Most of them are rescued. ❤️ 
 
@@ -63,4 +62,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giselle-ferreira&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24" alt="giselle-ferreira" /></p>
 
 <br>
-
