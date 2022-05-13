@@ -28,7 +28,7 @@
 >## Other Interests ✨
 - I love Graphic Design (Check My <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Insta</a> ), photography ( Check My <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Insta</a> ) and learning new languages (as in foreign languages).
 - I speak English and Spanish (besides Portuguese). 
-- I love pets. Most of them are rescued. ❤️ 
+- I love pets and I have a few dogs and cats myself. Most of them are rescued. ❤️ 
 
 <br>
 
