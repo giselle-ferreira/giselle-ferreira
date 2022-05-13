@@ -9,7 +9,7 @@
 
 - Sou uma Desenvolvedora Web 🖥️
 - Acabo de finalizar o curso de Desenvolvedor Web FullStack pela [SoulCode Academy](https://soulcodeacademy.org/) 
-- Amo aprender coisas novas, novas tecnologias, e também skills referente a desenvolvimento pessoal!
+- Amo aprender coisas novas e novas tecnologias!
 - Atualmente sou aluna do terceiro semestre de Análise e De Denvolvimento de Sistemas.
 - ⚡ Curiosidade: **Sou arquiteta desde 2007, e comecei a migrar para tecnologia em Janeiro/2021, e tenho me apaixonado cada vez mais!**
 
@@ -26,9 +26,8 @@
 <br>
 
 >## Interesses diversos ✨
-- Gosto muito de Design Gráfico. fotografia, e em aprender novos idiomas.
-- Falo Inglês e Espanhol, além do Português, e foi uma escolha pessoal. 
-- Também já fiz alguns cursos livres de design gráfico e fotografia, porque gosto muito. =)
+- Gosto muito de Design Gráfico (Ver meu <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Insta</a> ), fotografia ( Ver meu <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Insta</a> ), e de aprender novos idiomas.
+- Falo Inglês e Espanhol, além do Português. 
 - Amo animais, e tenho alguns gatos e cachorros. A maioria deles foi resgatada. ❤️ 
 
 <br>
