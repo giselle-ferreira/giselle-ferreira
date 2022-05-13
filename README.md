@@ -19,8 +19,8 @@
 
 >## Connect with me 🔗
 <p align="left">
-<a href="https://linkedin.com/in/giselleferreiras" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="giselleferreiras" /></a>
-<a href="mailto:giselle.fs@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Giselle Ferreira" /></a>
+<a href="https://linkedin.com/in/giselleferreiras" target="_blank" ><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="giselleferreiras" /></a>
+<a href="mailto:giselle.fs@gmail.com" target="_blank" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Giselle Ferreira" /></a>
 </p>
 
 
