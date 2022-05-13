@@ -26,9 +26,8 @@
 <br>
 
 >## Otros gustos e intereses ✨
-- Amo el diseño gráfico, la fotografía y aprender nuevos idiomas.
+- Amo el diseño gráfico (Ver mi <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Insta</a> ), la fotografía ( Ver mi <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Insta</a> ) y aprender nuevos idiomas.
 - Hablo inglés y español por opción personal. 
-- He tomado clases de diseño gráfico y fotografía, y lo he hecho por opción, porque me gustan mucho los temas. =)
 - Amo los animales. Tengo perritos y gatitos, y en su mayoría son rescatados. ❤️ 
 
 <br>
