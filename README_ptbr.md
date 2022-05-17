@@ -5,30 +5,24 @@
 
 <p align="center"> <img height="20" src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /> 
 <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img height="20" src="https://img.shields.io/badge/-Portugu%C3%AAs-green" /> <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_es.md" target="blank"><img height="20" src="https://img.shields.io/badge/-Espa%C3%B1ol-blue" /></a> <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README.md" target="blank"><img height="20" src="https://img.shields.io/badge/-English-blue" /></a>
+<br/>  
+<a href="https://linkedin.com/in/giselleferreiras" target="_blank" ><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="giselleferreiras" /></a>
+<a href="mailto:giselle.fs@gmail.com" target="_blank" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Giselle Ferreira" /></a>
 </p>
 
-- Sou uma Desenvolvedora Web 🖥️
-- Acabo de finalizar o curso de Desenvolvedor Web FullStack pela [SoulCode Academy](https://soulcodeacademy.org/) 
-- Amo aprender coisas novas e novas tecnologias!
-- Atualmente sou aluna do terceiro semestre de Análise e De Denvolvimento de Sistemas.
-- ⚡ Curiosidade: **Sou arquiteta desde 2007, e comecei a migrar para tecnologia em Janeiro/2021, e tenho me apaixonado cada vez mais!**
-
+<br/>
+  
+- Desenvolvedora Web Full Stack - [SoulCode Academy](https://soulcodeacademy.org/)
+- Falo Português [Nativo], Inglês and Espanhol 
+- Análise e De Denvolvimento de Sistemas (Terceiro semestre).
+- Curiosidade: **Sou arquiteta desde 2007, e comecei a migrar para tecnologia em Janeiro/2021, e tenho me apaixonado cada vez mais!**
 
 <br>
 
->## Conecte-se comigo 🔗
-<p align="left">
-<a href="https://linkedin.com/in/giselleferreiras" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="giselleferreiras" /></a>
-<a href="mailto:giselle.fs@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Giselle Ferreira" /></a>
-</p>
-
-
-<br>
-
->## Interesses diversos ✨
-- Gosto muito de Design Gráfico (Ver meu <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Insta</a> ), fotografia ( Ver meu <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Insta</a> ), e de aprender novos idiomas.
-- Falo Inglês e Espanhol, além do Português. 
-- Amo animais, e tenho alguns gatos e cachorros. A maioria deles foi resgatada. ❤️ 
+>## Interesses diversos
+- Design Gráfico (Meu <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Instagram</a> )
+- Fotografia ( Meu <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Instagram</a> )
+- Aprender novos idiomas
 
 <br>
 
