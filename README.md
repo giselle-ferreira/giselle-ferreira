@@ -4,31 +4,22 @@
 
 <p align="center"> <img height="20" src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /> 
 <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img height="20" src="https://img.shields.io/badge/-Portugu%C3%AAs-blue" /> <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_es.md" target="blank"><img height="20" src="https://img.shields.io/badge/-Espa%C3%B1ol-blue" /></a> <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README.md" target="blank"><img height="20" src="https://img.shields.io/badge/-English-green" /></a>
-</p>
-
-- I'm a Web Developer 🖥️ 
-- I just finished the Full Stack Web Developer bootcamp at [SoulCode Academy](https://soulcodeacademy.org/) 
-- I love to learn! 
-- I'm currently a System Analysis and Development undergrad student (3rd semester).
-- ⚡ Fun fact: **I've been an architect since 2007, and have started to migrate to technology since January/2021, and I couldn't love it more!**
-
-
-
-<br>
-
->## Connect with me 🔗
-<p align="left">
+<br/>  
 <a href="https://linkedin.com/in/giselleferreiras" target="_blank" ><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="giselleferreiras" /></a>
 <a href="mailto:giselle.fs@gmail.com" target="_blank" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Giselle Ferreira" /></a>
 </p>
 
+- Full Stack Web Developer - [SoulCode Academy](https://soulcodeacademy.org/)
+- I speak portuguese [Native], English and Spanish 
+- System Analysis and Development undergrad student (3rd semester).
+- Fun fact: **I've been an architect since 2007, and have started to migrate to technology since January/2021, and I couldn't love it more!**
 
 <br>
 
->## Other Interests ✨
-- I love Graphic Design (Check My <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Insta</a> ), photography ( Check My <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Insta</a> ) and learning new languages (as in foreign languages).
-- I speak English and Spanish (besides Portuguese). 
-- I love pets and I have a few dogs and cats myself. Most of them are rescued. ❤️ 
+>## Other Interests
+- Graphic Design (Check My <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Insta</a> )
+- Photography ( Check My <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Insta</a> )
+- Learning new languages (as in foreign languages)
 
 <br>
 
