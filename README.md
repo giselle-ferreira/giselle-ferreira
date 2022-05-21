@@ -5,10 +5,13 @@
 <p align="center"> <img height="20" src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /> 
 <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_ptbr.md" target="blank"><img height="20" src="https://img.shields.io/badge/-Portugu%C3%AAs-blue" /> <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README_es.md" target="blank"><img height="20" src="https://img.shields.io/badge/-Espa%C3%B1ol-blue" /></a> <a href="https://github.com/giselle-ferreira/giselle-ferreira/blob/main/README.md" target="blank"><img height="20" src="https://img.shields.io/badge/-English-green" /></a>
 <br/>  
-<a href="https://linkedin.com/in/giselleferreiras" target="_blank" ><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="giselleferreiras" /></a>
-<a href="mailto:giselle.fs@gmail.com" target="_blank" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Giselle Ferreira" /></a>
+<a href="https://linkedin.com/in/giselleferreiras" target="_blank" ><img align="center" height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Giselle Ferreira Linkedin" /></a>
+<a href="mailto:giselle.fs@gmail.com" target="_blank" ><img height="25" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Giselle Ferreira GMail" /></a>
+<a href="https://twitter.com/GiFerreiraDev" target="_blank" ><img height="25" align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Giselle Ferreira Twitter" /></a>
 </p>
 
+<br/>
+  
 - Full Stack Web Developer - [SoulCode Academy](https://soulcodeacademy.org/)
 - I speak portuguese [Native], English and Spanish 
 - System Analysis and Development undergrad student (3rd semester).
@@ -17,8 +20,8 @@
 <br>
 
 >## Other Interests
-- Graphic Design (Check My <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Insta</a> )
-- Photography ( Check My <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Insta</a> )
+- Graphic Design (Check My <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Instagram</a> )
+- Photography ( Check My <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Instagram</a> )
 - Learning new languages (as in foreign languages)
 
 <br>
