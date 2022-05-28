@@ -12,16 +12,17 @@
 
 <br/>
   
-- Full Stack Web Developer - [SoulCode Academy](https://soulcodeacademy.org/)
-- I speak portuguese [Native], English and Spanish 
+- Full Stack Web Developer (Angular) - [SoulCode Academy](https://soulcodeacademy.org/)
+- Full Stack Web Dev (React) - [Digital Innovation One](https://dio.me/)
+- Portuguese [Native] + English + Spanish 
 - System Analysis and Development undergrad student (3rd semester).
 - Fun fact: **I've been an architect since 2007, and have started to migrate to technology since January/2021, and I couldn't love it more!**
 
 <br>
 
 >## Other Interests
-- Graphic Design (Check My <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Instagram</a> )
-- Photography ( Check My <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Instagram</a> )
+- Graphic Design - <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Instagram</a> )
+- Photography - <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Instagram</a> )
 - Learning new languages (as in foreign languages)
 
 <br>
