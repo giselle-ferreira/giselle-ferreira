@@ -21,8 +21,8 @@
 <br>
 
 >## Other Interests
-- Graphic Design - <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Instagram</a> )
-- Photography - <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Instagram</a> )
+- Graphic Design 
+- Photography 
 - Learning new languages (as in foreign languages)
 
 <br>
