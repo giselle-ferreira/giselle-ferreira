@@ -7,7 +7,7 @@
 <br/>  
 <a href="https://linkedin.com/in/giselleferreiras" target="_blank" ><img align="center" height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Giselle Ferreira Linkedin" /></a>
 <a href="mailto:giselle.fs@gmail.com" target="_blank" ><img height="25" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Giselle Ferreira GMail" /></a>
-<a href="https://twitter.com/GiFerreiraDev" target="_blank" ><img height="25" align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Giselle Ferreira Twitter" /></a>
+<a href="https://twitter.com/giferreira_dev" target="_blank" ><img height="25" align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Giselle Ferreira Twitter" /></a>
 </p>
 
 <br/>
