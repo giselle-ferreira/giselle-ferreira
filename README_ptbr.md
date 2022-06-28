@@ -12,7 +12,8 @@
 
 <br/>
   
-- Desenvolvedora Web Full Stack - [SoulCode Academy](https://soulcodeacademy.org/)
+- Desenvolvedora Web Full Stack (Angular) - [SoulCode Academy](https://soulcodeacademy.org/)
+- Desenvolvedora Web Full Stack (React) - [Digital Innovation One](https://dio.me/) <i>(em curso...)</i>
 - Falo Português [Nativo], Inglês and Espanhol 
 - Análise e De Denvolvimento de Sistemas (Terceiro semestre).
 - Curiosidade: **Sou arquiteta desde 2007, e comecei a migrar para tecnologia em Janeiro/2021, e tenho me apaixonado cada vez mais!**
@@ -20,8 +21,8 @@
 <br>
 
 >## Interesses diversos
-- Design Gráfico (Meu <a target="_blank" href="https://www.instagram.com/gfmidiadigital/">Instagram</a> )
-- Fotografia ( Meu <a target="_blank" href="https://instagram.com/giselleferreirafotos/">Instagram</a> )
+- Design Gráfico
+- Fotografia 
 - Aprender novos idiomas
 
 <br>
