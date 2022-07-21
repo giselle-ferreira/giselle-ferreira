@@ -14,9 +14,9 @@
 <br/>
   
 - Desenvolvedora Web Full Stack (Angular) - [SoulCode Academy](https://soulcodeacademy.org/)
-- Desenvolvedora Web Full Stack (React) - [Digital Innovation One](https://dio.me/) <i>(em curso...)</i>
+- Desenvolvedora Web Full Stack (React) - [Digital Innovation One](https://dio.me/)
 - Falo Português [Nativo], Inglês and Espanhol 
-- Análise e De Denvolvimento de Sistemas (Terceiro semestre).
+- Análise e De Denvolvimento de Sistemas (Quarto semestre).
 - Curiosidade: **Sou arquiteta desde 2007, e comecei a migrar para tecnologia em Janeiro/2021, e tenho me apaixonado cada vez mais!**
 
 <br>
@@ -34,6 +34,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50">
