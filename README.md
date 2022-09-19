@@ -13,17 +13,9 @@
 <br/>
   
 - Full Stack Web Developer (Angular) - [SoulCode Academy](https://soulcodeacademy.org/)
-- Full Stack Web Dev (React) - [Digital Innovation One](https://dio.me/)
 - Portuguese [Native] + English + Spanish 
 - System Analysis and Development undergrad student (4rd semester).
-- Fun fact: **I've been an architect since 2007, and have started to migrate to technology since January/2021, and I couldn't love it more!**
-
-<br>
-
->## Other Interests
-- Graphic Design 
-- Photography 
-- Learning new languages (as in foreign languages)
+- Former Architect and Urbanist
 
 <br>
 
