@@ -13,10 +13,10 @@
 
 <br>
 
-- Desarrolladora Web Full Stack (Angular) - [SoulCode Academy](https://soulcodeacademy.org/)
+- Desarrolladora Web Full Stack - [SoulCode Academy](https://soulcodeacademy.org/)
 - Hablo Portugués(lengua materna), inglés y español
 - Tecnología en Análisis y Desarrollo de Sistemas (4o semestre)
-- ⚡ **Soy también arquitecta y urbanista desde el año 2007**
+- Curiosidad: **Soy también arquitecta y urbanista desde el año 2007**
 
 <br>
 
