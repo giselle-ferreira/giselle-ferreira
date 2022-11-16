@@ -12,9 +12,9 @@
 
 <br/>
   
-- Full Stack Web Developer (Angular) - [SoulCode Academy](https://soulcodeacademy.org/)
+- Full Stack Web Developer - [SoulCode Academy](https://soulcodeacademy.org/)
 - Portuguese [Native] + English + Spanish 
-- System Analysis and Development undergrad student (4rd semester).
+- System Analysis and Development undergrad student (4th semester).
 - Former Architect and Urbanist
 
 <br>
