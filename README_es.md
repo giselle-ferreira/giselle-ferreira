@@ -16,14 +16,7 @@
 - Desarrolladora Web Full Stack (Angular) - [SoulCode Academy](https://soulcodeacademy.org/)
 - Hablo Portugués(lengua materna), inglés y español
 - Tecnología en Análisis y Desarrollo de Sistemas (4o semestre)
-- ⚡ Fun fact: **Soy arquitecta desde en año 2007, y empezado la migración para la tecnología desde Enero/2021, y estoy amando cada segundo!**
-
-<br>
-
->## Otros gustos e intereses ✨
-- Diseño Gráfico
-- Fotografía
-- Aprender nuevos idiomas
+- ⚡ **Soy también arquitecta y urbanista desde el año 2007**
 
 <br>
 
