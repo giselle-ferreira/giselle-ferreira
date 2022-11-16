@@ -13,17 +13,10 @@
 
 <br/>
   
-- Desenvolvedora Web Full Stack (Angular) - [SoulCode Academy](https://soulcodeacademy.org/)
+- Desenvolvedora Web Full Stack - [SoulCode Academy](https://soulcodeacademy.org/)
 - Falo Português [Nativo], Inglês and Espanhol 
 - Análise e De Denvolvimento de Sistemas (Quarto semestre).
-- Curiosidade: **Sou arquiteta desde 2007, e comecei a migrar para tecnologia em Janeiro/2021, e tenho me apaixonado cada vez mais!**
-
-<br>
-
->## Interesses diversos
-- Design Gráfico
-- Fotografia 
-- Aprender novos idiomas
+- Curiosidade: **Sou também arquiteta e urbanista desde 2007**
 
 <br>
 
