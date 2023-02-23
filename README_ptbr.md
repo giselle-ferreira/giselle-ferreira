@@ -15,7 +15,7 @@
   
 - Desenvolvedora Web Full Stack - [SoulCode Academy](https://soulcodeacademy.org/)
 - Falo Português [Nativo], Inglês and Espanhol 
-- Análise e De Denvolvimento de Sistemas (Quarto semestre).
+- Graduada em Análise e De Denvolvimento de Sistemas (2022.2).
 - Curiosidade: **Sou também arquiteta e urbanista desde 2007**
 
 <br>
