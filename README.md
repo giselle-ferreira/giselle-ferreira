@@ -12,10 +12,10 @@
 
 <br/>
   
-- Full Stack Web Developer - [SoulCode Academy](https://soulcodeacademy.org/)
-- Portuguese [Native] + English + Spanish 
-- System Analysis and Development undergrad student (4th semester).
-- Former Architect and Urbanist
+- Full Stack Web Developer - [SoulCode Academy](https://soulcodeacademy.org/);
+- Portuguese [Native] + English + Spanish;
+- Graduated in System Analysis and Development (2022.2);
+- Former Architect and Urbanist.
 
 <br>
 
@@ -32,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="50"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg" width="50"> 
+<img src="https://spring.io/img/spring.svg" width="50"> 
 <br>
 <br> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50">  
