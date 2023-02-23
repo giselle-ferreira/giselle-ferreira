@@ -13,9 +13,9 @@
 
 <br>
 
-- Desarrolladora Web Full Stack - [SoulCode Academy](https://soulcodeacademy.org/)
-- Hablo Portugués(lengua materna), inglés y español
-- Tecnología en Análisis y Desarrollo de Sistemas (4o semestre)
+- Desarrolladora Web Full Stack - [SoulCode Academy](https://soulcodeacademy.org/);
+- Hablo Portugués(lengua materna), inglés y español;
+- Licenciatura en Tecnología en Análisis y Desarrollo de Sistemas (2022.2);
 - Curiosidad: **Soy también arquitecta y urbanista desde el año 2007**
 
 <br>
@@ -32,7 +32,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="50"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="50">
+<img src="https://spring.io/img/spring.svg" width="50"> 
 <br>
 <br> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50">  
