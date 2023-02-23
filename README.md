@@ -31,6 +31,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="50"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg" width="50"> 
 <br>
 <br> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50">  
