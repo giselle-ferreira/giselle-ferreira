@@ -43,6 +43,15 @@
 
 <br>
 
+>## Estudando no momento 👩🏻‍💻
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="50">
+<img src="https://spring.io/img/spring.svg" width="50"> 
+</p>  
+
+<br>
+
 >## Stats 📝
 [![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=giselle-ferreira&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/giselle-ferreira/github-readme-stats)
 
