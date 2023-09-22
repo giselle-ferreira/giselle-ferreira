@@ -1,0 +1,4 @@
+# Articles on Dev.to
+
+{{ template "article-table" .Articles }}
+
