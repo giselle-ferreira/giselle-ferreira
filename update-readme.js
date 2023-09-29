@@ -2,11 +2,11 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 
 async function updateReadme() {
-  const devToUsername = 'giselletech'; // Substitua pelo seu nome de usuário no Dev.to
+  const devToUsername = 'giselletech';
 
   const response = await fetch(`https://dev.to/api/articles?username=${devToUsername}`, {
     headers: {
-      'api-key': process.env.DEVTO_API_TOKEN // Usa o token do Dev.to armazenado em secrets
+      'api-key': secrets.DEVTO_API_TOKEN 
     }
   });
 
