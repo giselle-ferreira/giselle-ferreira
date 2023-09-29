@@ -2,11 +2,12 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 
 async function updateReadme() {
-  const devToUsername = 'giselletech';
+  const devToUsername = 'giselletech'; 
+  const devToApiToken = secrets.DEVTO_TOKEN;
 
   const response = await fetch(`https://dev.to/api/articles?username=${devToUsername}`, {
     headers: {
-      'api-key': secrets.DEVTO_TOKEN 
+      'api-key': devToApiToken
     }
   });
 
