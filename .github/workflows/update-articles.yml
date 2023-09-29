@@ -1,7 +1,7 @@
 name: Update README with Dev.to Articles
 on:
   schedule:
-    - cron: '0 12 * * *' # Configure a frequência desejada
+    - cron: '10 11 * * *' 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
