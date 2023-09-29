@@ -1,22 +1,25 @@
 <p ><h1 align="center">Hi 👋, I'm Giselle!</h1>
-<p align="center" ><img " width="160" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif"/>
-<img width="160" src="https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif"/></p>
-
 <p align="center"> <img height="20" src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /> 
 <br/>  
 <a href="https://linkedin.com/in/giselleferreiras" target="_blank" ><img align="center" height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Giselle Ferreira Linkedin" /></a>
 <a href="https://instagram.com/giselletech" target="_blank" ><img align="center" height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Giselle Ferreira Instagram" /></a>
 
-</p>
-
+<br/>
 <br/>
 
-- Software Developer at [Accenture](https://www.accenture.com/br-pt);
-- Full Stack Web Developer - [SoulCode Academy](https://soulcodeacademy.org/);
-- Portuguese [Native] + English + Spanish;
-- Graduated in System Analysis and Development (2022.2);
-- Former Architect and Urbanist (of 14 years);
-- Check all my networks at [GiselleTech](https://giselletech.vercel.app).
+<p>
+<img height="170" src="https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif" align="right" />
+<img height="170" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" align="right"/>      
+</p> 
+
+<ul align="left" style=“list-style-type:square”>
+<li>Software Developer at <a href="https://www.accenture.com/br-pt">Accenture</a>;</li>
+<li>Working currently with Java;</li>
+<li>Full Stack Web Developer - <a href="https://soulcodeacademy.org/">SoulCode Academy</a>;</li>
+<li>Graduated in System Analysis and Development (2022.2);</li>
+<li>Former Architect and Urbanist (of 14 years);</li>
+<li>Check all my networks at <a href="https://giselletech.vercel.app">GiselleTech</a></li>
+</ul>
 
 <br>
 
