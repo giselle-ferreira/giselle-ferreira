@@ -7,25 +7,28 @@
 <br/>
 <br/>
 
-<p>
-<img height="170" src="https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif" align="right" />
-<img height="170" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" align="right"/>      
-</p> 
 
-<ul align="left" style=“list-style-type:square”>
+<img height="125" src="https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif" align="center" />
+<img height="125" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" align="center"/>      
+
+<br/>
+<br/>
+
+<div align="center">
 <li>Software Developer at <a href="https://www.accenture.com/br-pt">Accenture</a>;</li>
 <li>Working currently with Java;</li>
 <li>Full Stack Web Developer - <a href="https://soulcodeacademy.org/">SoulCode Academy</a>;</li>
 <li>Graduated in System Analysis and Development (2022.2);</li>
 <li>Former Architect and Urbanist (of 14 years);</li>
 <li>Check all my networks at <a href="https://giselletech.vercel.app">GiselleTech</a></li>
-</ul>
+</div>
 
-<br>
+<br/>
 
->## Languages and Tools 🧰
+<div align="center">
 
-<p align="left">
+## Languages and Tools 🧰
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
@@ -41,30 +44,27 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="25">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" height="25"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" height="25">
-</p>  
 
-<br>
+<br/>
 
->## Studying at the moment 👩🏻‍💻
+## Studying at the moment 👩🏻‍💻
 
-<p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25"> 
-</p>  
 
-<br>
+<br/>
 
->## Stats 📝
+## Stats 📝
 [![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=giselle-ferreira&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/giselle-ferreira/github-readme-stats)
 
-<br>
+<br/>
 
->## Most Used Languages ⚒️
+## Most Used Languages ⚒️
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giselle-ferreira&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24" alt="giselle-ferreira" /></p>
 
-<br>
+<br/>
 
->## Articles on Dev.to
+## Articles on Dev.to
 
 <table border="1">
     <thead>
@@ -88,3 +88,4 @@
         </tr>
     </tbody>
 </table>
+</div>
