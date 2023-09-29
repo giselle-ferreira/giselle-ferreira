@@ -1,27 +1,27 @@
-name: 'Update dev.to article list'
+name: Update README
+
 on:
   schedule:
-    - cron: '0 17 * * *'
-  push:
-    branches:
-      - main
+    - cron: "0 11 * * *"
+
 jobs:
-  update-weather:
-    permissions: write-all
+  update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Update articles
-        uses: huantt/article-listing@v1.1.0
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
         with:
-          username: giselletech
-          limit: 10
-          template-file: 'README.md.template'
-          out-file: 'README.md'
-      - name: Commit
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "update"
-          git push origin main
+          node-version: "14"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update README
+        run: node update-readme.js
+        env:
+          DEVTO_TOKEN: ${{ secrets.DEVTO_TOKEN }}
+
