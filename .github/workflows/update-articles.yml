@@ -19,7 +19,7 @@ jobs:
 
       - name: Update README
         env:
-          DEVTO_API_TOKEN: ${{ secrets.DEVTO_API_TOKEN }}
+          DEVTO_API_TOKEN: ${{ secrets.DEVTO_TOKEN }}
         run: node script.js
 
       - name: Commit and Push changes
