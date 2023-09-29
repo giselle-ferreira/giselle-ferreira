@@ -1,27 +1,31 @@
-name: Update README
-
+name: Update README with Dev.to Articles
 on:
   schedule:
-    - cron: "0 11 * * *"
-
+    - cron: '0 12 * * *' # Configure a frequência desejada
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Check out code
+      - name: Checkout Repository
         uses: actions/checkout@v2
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: "14"
+          node-version: 14
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: npm install
 
       - name: Update README
-        run: node update-readme.js
         env:
-          DEVTO_TOKEN: ${{ secrets.DEVTO_TOKEN }}
+          DEVTO_API_TOKEN: ${{ secrets.DEVTO_API_TOKEN }}
+        run: node script.js
 
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "you@example.com"
+          git config --local user.name "Your Name"
+          git add README.md
+          git commit -m "Update README with Dev.to articles"
+          git push
