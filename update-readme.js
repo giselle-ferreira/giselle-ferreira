@@ -6,7 +6,7 @@ async function updateReadme() {
 
   const response = await fetch(`https://dev.to/api/articles?username=${devToUsername}`, {
     headers: {
-      'api-key': secrets.DEVTO_API_TOKEN 
+      'api-key': secrets.DEVTO_TOKEN 
     }
   });
 
