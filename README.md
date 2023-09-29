@@ -73,15 +73,15 @@
     <tbody>
         <tr>
             <td><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--iDJ3l79p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vqnrszyv6rncxymhfbwf.png" height="70"></td>
-            <td><a ref="https://dev.to/giselletech/10-plataformas-gratuitas-de-aprendizado-de-programacao-2dki">6 Podcasts Nacionais Para Você Se Atualizar Em Tecnologia</a></td>
+            <td><a href="https://dev.to/giselletech/10-plataformas-gratuitas-de-aprendizado-de-programacao-2dki">6 Podcasts Nacionais Para Você Se Atualizar Em Tecnologia</a></td>
         </tr>
          <tr>
             <td><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4-RkFh79--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h2xztq69xp6hm04b8pib.png" height="70"></td>
-            <td><a ref="https://dev.to/giselletech/6-podcasts-nacionais-para-voce-se-atualizar-em-tecnologia-198h">10 Plataformas Gratuitas de Aprendizado de Programação</a></td>
+            <td><a href="https://dev.to/giselletech/6-podcasts-nacionais-para-voce-se-atualizar-em-tecnologia-198h">10 Plataformas Gratuitas de Aprendizado de Programação</a></td>
         </tr>
          <tr>
             <td><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--My1H8eUJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a29osw532wq6ls8dqsrq.gif" height="70"></td>
-            <td><a ref="https://dev.to/giselletech/6-ideias-de-projetos-backend-para-seu-portfolio-1o9p">6 Ideias de Projetos Backend Para Seu Portfólio</a></td>
+            <td><a href="https://dev.to/giselletech/6-ideias-de-projetos-backend-para-seu-portfolio-1o9p">6 Ideias de Projetos Backend Para Seu Portfólio </a></td>
         </tr>
     </tbody>
 </table>
