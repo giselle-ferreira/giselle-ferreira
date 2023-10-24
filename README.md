@@ -1,5 +1,5 @@
 <p ><h1 align="center">Hi 👋, I'm Giselle!</h1>
-<p align="center"> <img height="20" src="https://komarev.com/ghpvc/?username=giselle-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="giselle-ferreira" /> 
+<p align="center"> 
 <br/>  
 <a href="https://linkedin.com/in/giselleferreiras" target="_blank" ><img align="center" height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Giselle Ferreira Linkedin" /></a>
 <a href="https://instagram.com/giselletech" target="_blank" ><img align="center" height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Giselle Ferreira Instagram" /></a>
