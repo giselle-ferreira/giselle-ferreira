@@ -75,6 +75,10 @@
     </thead>
     <tbody>
         <tr>
+            <td><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvizzkje9p08q6ztjl299.png" height="70"></td>
+            <td><a href="https://dev.to/giselletech/funcoes-java-decifrando-o-foreach-5339">Funções Java: Decifrando O forEach()</a></td>
+        </tr>
+        <tr>
             <td><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--iDJ3l79p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vqnrszyv6rncxymhfbwf.png" height="70"></td>
             <td><a href="https://dev.to/giselletech/10-plataformas-gratuitas-de-aprendizado-de-programacao-2dki">6 Podcasts Nacionais Para Você Se Atualizar Em Tecnologia</a></td>
         </tr>
