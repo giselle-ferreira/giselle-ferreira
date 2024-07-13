@@ -2,7 +2,6 @@
 <p align="center"> 
 <br/>  
 <a href="https://linkedin.com/in/giselleferreiras" target="_blank" ><img align="center" height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Giselle Ferreira Linkedin" /></a>
-<a href="https://instagram.com/giselletech" target="_blank" ><img align="center" height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Giselle Ferreira Instagram" /></a>
 
 <br/>
 <br/>
