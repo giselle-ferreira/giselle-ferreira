@@ -14,11 +14,10 @@
 <br/>
 
 <div align="center">
-<li>Software Developer at <a href="https://www.accenture.com/br-pt">Accenture</a>;</li>
-<li>Working currently with Java;</li>
-<li>Full Stack Web Developer - <a href="https://soulcodeacademy.org/">SoulCode Academy</a>;</li>
+<li>Software Developer at <a href="https://www.accenture.com/br-pt">Accenture</a></li>
+<li>Working currently with Java</li>
+<li>Full Stack Web Developer - <a href="https://soulcodeacademy.org/">SoulCode Academy</a></li>
 <li>Graduated in System Analysis and Development (2022.2);</li>
-<li>Former Architect and Urbanist (of 14 years);</li>
 <li>Check all my networks at <a href="https://giselletech.vercel.app">GiselleTech</a></li>
 </div>
 
